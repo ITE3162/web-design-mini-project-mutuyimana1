@@ -1,9 +1,4 @@
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -13,3 +8,7 @@
 # Ignore all local history of files
 .history
 .ionide
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
